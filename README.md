@@ -24,8 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alenjoby&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <br clear="both">
 
 <div align="center">
