@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a portfolio Website<br>🌱 I’m currently learning android dev with Kotlin<br>⚡ Fun fact :  The global artificial intelligence (AI) market is expected to reach $126 billion by 2025.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alenjoby/) 
 
